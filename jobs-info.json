@@ -1,7 +1,6 @@
 
 [
-  'jobs':[
-    {
+  {
     title:'Front-end Engineer',
     dates: '2023 - present',
     duties:[
@@ -31,5 +30,4 @@
     ],
     company:'Accenture'
   }
-]
 ]
